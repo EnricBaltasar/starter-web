@@ -13,3 +13,7 @@ Be happy :)
 Yes.
 
 x2
+
+### Copyright
+
+Git Training.
