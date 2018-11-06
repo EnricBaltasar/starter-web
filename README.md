@@ -17,3 +17,7 @@ x2
 ### Copyright
 
 Git Training.
+
+### How To Contribute
+
+:)))
